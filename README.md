@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xin</h1>
+<h1 align="center">Hi 👋, I'm Jm</h1>
 <h3 align="center">From Polytechnic University of the Philippines - Main</h3>
 
 - 💬 Ask me about **C, C++, HTML, CSS, Javascript, Python, Node, Termux OS, Parrot OS**
