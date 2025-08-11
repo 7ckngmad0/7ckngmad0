@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Janmanuelmurillo32@gmail.com**
 
+- ❌ Nag commit me ng 14k lines of html codes, kaya nag ganyan yang bwiset na html skills ko tnx
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/haschwalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="haschwalt" height="30" width="40" /></a>
