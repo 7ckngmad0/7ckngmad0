@@ -13,7 +13,7 @@
 <a href="https://fb.com/7ckkingmadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7ckkingmadd" height="30" width="40" /></a>
 <a href="https://instagram.com/jeyemmmm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeyemmmm0" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user_dyoyqptbupk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_dyoyqptbupk" height="30" width="40" /></a>
-<a href="https://discord.gg/yhwaaaach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yhwaaaach" height="30" width="40" /></a>
+<a href="discordapp.com/users/961890314405179392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yhwaaaach" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
