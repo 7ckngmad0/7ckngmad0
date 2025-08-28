@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7ckngmad0&label=Profile%20views&color=0e75b6&style=flat" alt="7ckngmad0" /> </p>
 
-- 💬 Ask me about **C, Python, Reverse Engineering**
+- 💬 Ask me about **C, Python, Java, Termux, or Ghidra**
 
 - 📫 How to reach me **Janmanuelmurillo32@gmail.com**
 
